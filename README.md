@@ -1,10 +1,8 @@
 #  Hey Guys! I'm Ankit Kumar  
-###  Engineering Student | 💻 Developer | 🎤 TEDx Enthusiast | I love to listen Podcasts
+###  Engineering Student | 💻 Developer | I love to listen Podcasts
 
 Welcome to my GitHub! I'm a Computer Science and IT engineering student at SRM, working on exciting projects, exploring tech innovations, and always ready to learn something new.
-
 ---
-
 ## 🧠 About Me
 
 - 🎓 Currently a 2nd-year CS-IT undergrad at SRMIST  
